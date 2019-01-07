@@ -10,3 +10,4 @@ In the project directory, you can run project by the following two ways:
 1. ```mvn install```
 2. ```java -jar target/xxxx.jar```
 
+And then you can open http://localhost:8761 to view it in the browser.
